@@ -11,6 +11,8 @@
 <div align="center">
  
  🔭 I’m currently working on **a Graphic Designer Freelance**
+
+ 🎯 Goals : I want to Be **Fullstack Developer Specialist**
  
  🌱 I’m currently learning **React,Vue and Angular**
  
