@@ -17,16 +17,16 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:mdtaqui.jhar@gmail.com">
+  <a href="mailto:sayhansagufta100@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-      <a href="https://twitter.com/Taquiimam14" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
+      <a href="https://www.instagram.com/visualvortexdesign/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
   </a>
-  <a href="https://linkedin.com/in/taqui-imam" target="_blank">
+  <a href="https://www.linkedin.com/in/shayhan-sagufta-38a8b9215/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://tinyurl.com/MdTaquiImam" target="_blank">
+  <a href="https://lynk.id/visualvortex" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
