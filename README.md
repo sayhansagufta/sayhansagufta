@@ -1,24 +1,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Taqui+Imam!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shayhan+Sagufta!;" />
 </h1>
 
-<h3 align="center">A passionate software developer and tech Blog writer from India</h3>
+<h3 align="center">A passionate Fullstack Developer and Graphic Designer from Indonesian </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a Nexjs Projects**
+ 🔭 I’m currently working on **a Graphic Designer Freelance**
  
- 🌱 I’m currently learning **C++,Typescript and Java**
-
- 📚 Write's Blogs at **[Dev.to](https://dev.to/random_ti)** and **[Hashnode](https://mdtaquiimam.hashnode.dev/)**
-
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/taqui-786/taqui-786/issues)**
-
- ⚡ Fun fact **World first developer was a women**
+ 🌱 I’m currently learning **React,Vue and Angular**
  
  </div>
  
